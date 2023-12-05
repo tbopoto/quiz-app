@@ -5,6 +5,116 @@
     "correctAnswer": "France"
   },
   {
+    "question": "Who is Chelsea's all time top goal scorer?",
+    "options": ["Zola", "Eden Hazard", "Drogba", "Frank Lampard"],
+    "correctAnswer": "Frank Lampard"
+  },
+  {
+    "question": "Who won the FIFA Ballon d'Or in 2021?",
+    "options": ["Lionel Messi", "Robert Lewandowski", "Cristiano Ronaldo", "Neymar"],
+    "correctAnswer": "Lionel Messi"
+  },
+  {
+    "question": "Which country hosted the FIFA World Cup in 2014?",
+    "options": ["Brazil", "Germany", "Spain", "Italy"],
+    "correctAnswer": "Brazil"
+  },
+  {
+    "question": "Who is known as the 'Egyptian King' in football?",
+    "options": ["Mohamed Salah", "Sadio Mane", "Riyad Mahrez", "Hakim Ziyech"],
+    "correctAnswer": "Mohamed Salah"
+  },
+  {
+    "question": "Which club did Zinedine Zidane coach before joining Real Madrid?",
+    "options": ["Juventus", "AC Milan", "Chelsea", "Manchester United"],
+    "correctAnswer": "Juventus"
+  },
+  {
+    "question": "Who is the all-time top scorer for the Brazil national football team?",
+    "options": ["Pele", "Ronaldo Nazario", "Neymar", "Zico"],
+    "correctAnswer": "Pele"
+  },
+  {
+    "question": "In which year did England win the FIFA World Cup?",
+    "options": ["1966", "1970", "1982", "1990"],
+    "correctAnswer": "1966"
+  },
+  {
+    "question": "Which player is known for his famous 'Panenka' penalty kick in the Euro 1976 final?",
+    "options": ["Antonin Panenka", "Franz Beckenbauer", "Johan Cruyff", "Michel Platini"],
+    "correctAnswer": "Antonin Panenka"
+  },
+  {
+    "question": "Who is the captain of the Argentina national football team as of 2023?",
+    "options": ["Lionel Messi", "Sergio Aguero", "Paulo Dybala", "Angel Di Maria"],
+    "correctAnswer": "Lionel Messi"
+  },
+  {
+    "question": "Which goalkeeper has the most clean sheets in Premier League history?",
+    "options": ["Petr Cech", "David De Gea", "Alisson Becker", "Ederson"],
+    "correctAnswer": "Petr Cech"
+  },
+  {
+    "question": "Who won the UEFA Champions League in the 2020-2021 season?",
+    "options": ["Chelsea", "Manchester City", "Real Madrid", "Bayern Munich"],
+    "correctAnswer": "Chelsea"
+  },
+  {
+    "question": "Which Italian club is known as 'The Old Lady'?",
+    "options": ["AC Milan", "Inter Milan", "Juventus", "AS Roma"],
+    "correctAnswer": "Juventus"
+  },
+  {
+    "question": "Who is the manager of Liverpool FC as of 2023?",
+    "options": ["Jurgen Klopp", "Pep Guardiola", "Zinedine Zidane", "Carlo Ancelotti"],
+    "correctAnswer": "Jurgen Klopp"
+  },
+  {
+    "question": "In which city does the football club Borussia Dortmund play its home matches?",
+    "options": ["Munich", "Berlin", "Dortmund", "Hamburg"],
+    "correctAnswer": "Dortmund"
+  },
+  {
+    "question": "Who holds the record for the most goals scored in a single calendar year?",
+    "options": ["Lionel Messi", "Cristiano Ronaldo", "Gerd Muller", "Neymar"],
+    "correctAnswer": "Lionel Messi"
+  },
+  {
+    "question": "Which African country has won the most Africa Cup of Nations titles?",
+    "options": ["Nigeria", "Cameroon", "Ghana", "Egypt"],
+    "correctAnswer": "Egypt"
+  },
+  {
+    "question": "Who is the top scorer in the history of the UEFA Europa League?",
+    "options": ["Radamel Falcao", "Aritz Aduriz", "Antoine Griezmann", "Edin Dzeko"],
+    "correctAnswer": "Radamel Falcao"
+  },
+  {
+    "question": "Which club did Diego Maradona play for in Serie A?",
+    "options": ["AC Milan", "Juventus", "Napoli", "Roma"],
+    "correctAnswer": "Napoli"
+  },
+  {
+    "question": "Who is the all-time top scorer for FC Barcelona?",
+    "options": ["Lionel Messi", "Xavi Hernandez", "Andres Iniesta", "Samuel Eto'o"],
+    "correctAnswer": "Lionel Messi"
+  },
+  {
+    "question": "Which player is nicknamed 'The Baby-faced Assassin'?",
+    "options": ["Ole Gunnar Solskjaer", "Ruud van Nistelrooy", "Robin van Persie", "Dennis Bergkamp"],
+    "correctAnswer": "Ole Gunnar Solskjaer"
+  },
+  {
+    "question": "In which year did the legendary footballer Pele retire from professional football?",
+    "options": ["1974", "1977", "1980", "1983"],
+    "correctAnswer": "1977"
+  }
+  {
+    "question": "Which manager has the most premier leage titles since 2000?",
+    "options": ["Jose Mourinho", "Arsene Wenger", "Pep Guardiola", "Sir Alex Ferguson"],
+    "correctAnswer": "Sir Alex Ferguson"
+  },
+  {
     "question": "Who is the all-time top scorer in the UEFA Champions League?",
     "options": ["Lionel Messi", "Cristiano Ronaldo", "Raul", "Robert Lewandowski"],
     "correctAnswer": "Cristiano Ronaldo"
