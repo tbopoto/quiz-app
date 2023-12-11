@@ -116,7 +116,7 @@
   },
   {
     "question": "Who is the all-time top scorer in the UEFA Champions League?",
-    "options": ["Lionel Messi", "Cristiano Ronaldo", "Raul", "Robert Lewandowski"],
+    "options": ["Lionel Messi", "Cristiano Ronaldo", "Benzema", "Robert Lewandowski"],
     "correctAnswer": "Cristiano Ronaldo"
   },
   {
